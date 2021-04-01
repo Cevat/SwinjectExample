@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SwinjectExample/Pods-SwinjectExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Swinject/Swinject.framework
+${BUILT_PRODUCTS_DIR}/SwinjectAutoregistration/SwinjectAutoregistration.framework
+${BUILT_PRODUCTS_DIR}/SwinjectStoryboard/SwinjectStoryboard.framework
